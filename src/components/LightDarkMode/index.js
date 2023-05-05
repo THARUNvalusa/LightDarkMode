@@ -15,7 +15,7 @@ class LightDarkMode extends Component {
       <div className="background">
         <div className={isdark ? 'dark' : 'light'}>
           <h1 className={isdark ? 'whitetext' : 'darktext'}>
-            Click To Change Mode
+            Tharun❤️
           </h1>
           <button className="modebutton" type="button" onClick={this.darkmode}>
             {isdark ? 'Light Mode' : 'Dark Mode'}
